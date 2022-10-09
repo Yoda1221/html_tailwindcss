@@ -1,4 +1,4 @@
-# html_tailwindcss
+# HTML with Tailwindcss
 
 npx tailwindcss init
 npm init
